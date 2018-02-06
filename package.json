@@ -1,5 +1,5 @@
 {
-  "name": "adder",
+  "name": "adder_lib",
   "version": "1.0.0",
   "description": "npm lib adder",
   "main": "index.js",
